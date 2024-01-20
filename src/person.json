@@ -1,0 +1,28 @@
+
+{
+    "name": "Leevi Koskimaa",
+    "age": "27",
+    "email": "Leevi.koskimaa@hotmail.fi",
+    "phone": "0400696140",
+    "education": {
+        "school": "UEF",
+        "title":"Bachelor degree, Computer Science",
+        "graduation": "2021"
+    },
+    "experience": [
+        {
+            "id":1,
+            "company": "netum oy",
+            "title": "Integration specialist trainee",
+            "length": "6 months",
+            "responsibilities": "Integration design and development and maintaining integrations"
+        },
+        {
+            "id":2,
+            "company": "netum oy",
+            "title": "Integration specialist",
+            "length": "1,5 years - Ongoing",
+            "responsibilities": "Integration design and development and maintaining integrations"
+        }
+    ]
+}
